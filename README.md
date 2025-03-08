@@ -1,31 +1,92 @@
-<h1 align="center">Hi 👋, I'm Mahibul Hassan Emon</h1>
-<h3 align="center">Android and Flutter Developer of Bangladesh</h3>
+# Mahibul Hassan Emon
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahibulhassan" alt="mahibulhassan" /></a> </p>
+## Contact Information
 
-- 🔭 I’m currently working on [Hotel Management Bd](https://github.com/Mahibulhassan/Hotel-Management)
+**Address:** House No:336, Vill: Daspara, P.O: Narsingdi Govt. College, Thana & Dist : Narsingdi  
+**Phone:** +8801521562052 / +8801681690327  
+**Email:** mahibulhassan842@gmail.com  
+**GitHub:** [Mahibulhassan](https://github.com/Mahibulhassan)  
+**LinkedIn:** [Mahibul Hassan](https://www.linkedin.com/in/mahibul-hassan-0867a8179/)  
 
-- 🌱 I’m currently learning **Flutter Mobile Application Developement.**
+## Education
 
-- 👯 I’m looking to collaborate on [Phmarcy Management](https://github.com/shakircam/PharmacyManager)
+### **Dhaka City College**  
+**B.Sc. in Computer Science and Engineering**  
+February 2018 – Sep 2023 | CGPA: 3.55/4.00  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mahibulhassan](https://github.com/Mahibulhassan)
+### **Narsingdi Model College**  
+**H.S.C in Science**  
+March 2016 | GPA: 5.0 / 5.0  
 
-- 💬 Ask me about **Android, Flutter,Database etc**
+### **Brahmondi K.K.M Govt. High School**  
+**S.S.C in Science**  
+February 2014 | GPA: 4.69 / 5.0  
 
-- 📫 How to reach me **mahibulhassan842@gmail.com**
+## Key Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahibul-hassan-0867a8179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahibul-hassan-0867a8179/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14061986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14061986" height="30" width="40" /></a>
-<a href="https://fb.com/mahibul.hassan.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahibul.hassan.2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Mahibul20?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mahibul20" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mahibul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahibul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahibul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahibul/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mahibul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mahibul1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mahibulhassan842/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mahibulhassan842/" height="30" width="40" /></a>
-</p>
+- **Mobile Development**: Flutter, Android Native  
+- **Programming Languages**: Dart, Java, Kotlin, C, C++  
+- **Databases**: MySQL, SQLite, Room Database, SqFlite  
+- **Version Control**: GitHub, Bitbucket  
+- **Operating Systems**: Ubuntu, Windows, Mac  
+- **Languages**: Bengali, English, Hindi  
+
+## Professional Experience
+
+### **6amTech** (Oct 2023 – Present)  
+**Position:** Junior Software Engineer (Flutter)  
+**Website:** [6amTech](https://6amtech.com/)  
+
+### **RedGreenbd IT Solutions** (Feb 2023 – Sep 2023)  
+**Position:** Software Developer (Flutter)  
+
+## Competitive Programming
+
+- **Codeforces:** [Profile](https://codeforces.com/profile/mahibul) (165+ problems solved)  
+- **HackerRank:** [Profile](https://www.hackerrank.com/Mahibul20?hr_r=1) (104+ problems solved)  
+- **HackerEarth:** [Profile](https://www.hackerearth.com/@mahibul1) (82+ problems solved)  
+- **UVA:** [Profile](https://uhunt.onlinejudge.org/id/957401) (46+ problems solved)  
+- **Total Problems Solved:** 764+ [StopStalk Profile](https://www.stopstalk.com/user/profile/Mahibul420)  
+
+## Projects
+
+### **6Valley Multi-Vendor E-commerce Project**  
+- **Technology:** Flutter, Provider State Management, Dart, SqFlite Database, PHP backend, MVVM Architecture  
+- **Core Features:** Barcode scanner, invoice print with Bluetooth printer, real-time notifications, order tracking, PDF generator  
+- **Project Link:** [6Valley E-commerce](https://codecanyon.net/item/6valley-multivendor-ecommerce-complete-ecommerce-mobile-app-web-and-admin-panel/31448597)  
+
+### **DriveMond (Ride and Parcel Sharing)**  
+- **Technology:** Flutter, GetX State Management, Dart, SqFlite Database, PHP backend, MVVM Architecture  
+- **Core Features:** Google Maps, voice search assistant, weather alert, multiple ride/parcel requests, WebSocket, real-time notifications  
+- **Project Link:** [DriveMond](https://drivemond.app/)  
+
+### **6amMart (Multi-vendor Food, Grocery, Pharmacy, Ride & E-commerce)**  
+- **Technology:** Flutter, GetX State Management, Dart, SqFlite Database, PHP backend, MVC Architecture  
+- **Core Features:** Barcode scanner, invoice print with Bluetooth printer, real-time notifications, order tracking, PDF generator  
+- **Project Link:** [6amMart](https://codecanyon.net/item/6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/36772112)  
+
+### **Smart Home Management**  
+- **Technology:** Flutter, Dart, MVC Architecture, Flutter Libraries  
+- **Core Features:** Home automation system controlling electric elements through mobile devices  
+- **GitHub Link:** [Smart Home](https://github.com/Mahibulhassan/Innova_Infosys/tree/main/Smart-Home-master)  
+
+## Training
+
+- **Advanced Competitive Programming** – Dev Skill (Oct 2019 - Feb 2020)  
+- **Android Development** – Brain Station 23 (Aug 2020 - Feb 2021)  
+- **Flutter Application Development** – Ostad Online Learning (May 2023 - Aug 2023)  
+
+## Competitions
+
+- 2019 – DCC Intra University Programming Contest  
+- 2019 – National Collegiate Programming Contest  
+- 2019 – DUET Programming Contest  
+- 2020 – ACM ICPC Dhaka Regional Programming Contest  
+
+---
+
+For more details, contact me via email: [mahibulhassan842@gmail.com](mailto:mahibulhassan842@gmail.com)  
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
